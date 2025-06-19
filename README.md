@@ -56,7 +56,7 @@ Banco de Dados: SQLite3
 
 Manipulação de Imagem: OpenCV
 
-Geração de PDF: (Mencione a biblioteca que usou, ex: FPDF, ReportLab)
+Geração de PDF: ReportLab
 
 Instalador: PyInstaller e Inno Setup
 
